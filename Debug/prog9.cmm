@@ -1,0 +1,21 @@
+int x, abs;
+begin
+ cout << "Enter an integer: ";
+
+ if x > 0 then
+   abs = x;
+ else
+   abs = -x; 
+ end if;  
+ cout << "absolute value of " << x << " is " << abs;
+ newline;
+ cout << "is x < 0? "  << x < 0; 
+ newline;
+ if x < 0 then
+   cout << "You entered a negative number " << x;
+   exit;
+ end if;
+ cout << "You entered a non-negative number " << x;
+ newline; 
+end 
+ 

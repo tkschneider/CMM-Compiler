@@ -1,0 +1,25 @@
+int k;
+begin
+  k = 1;
+  while k <= 10 do
+    cout << k*k << "  ";
+	k = k+1;
+  end while;
+end 
+
+String Table
+0 :   
+
+
+Variable Table
+0: k
+
+
+Instruction Table
+0: assign k: 1
+1: while:  (k)<=(10) target: 5
+2: cout  [(k)*(k)] [string: 0] 
+3: assign k: (k)+(1)
+4: goto 1
+5: End of while
+6: exit

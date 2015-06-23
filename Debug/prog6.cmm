@@ -1,0 +1,6 @@
+begin
+  cout << "You should see this line";
+  exit;
+  cout << "If you see this you have a bug!";
+end  
+  

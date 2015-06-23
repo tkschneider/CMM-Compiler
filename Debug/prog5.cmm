@@ -1,0 +1,7 @@
+int x, y;
+begin
+  cout << "Enter 2 numbers: "; 
+  cin >> x  >> y;
+  newline;
+  cout << "You entered " << x << " and " << y;
+end  

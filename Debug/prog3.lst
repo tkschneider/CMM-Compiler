@@ -1,0 +1,16 @@
+begin
+ cout << "2 + 2 " << "is " << 4;
+end
+
+
+String Table
+0 : 2 + 2 
+1 : is 
+
+
+Variable Table
+
+
+Instruction Table
+0: cout  [string: 0] [string: 1] [4] 
+1: exit

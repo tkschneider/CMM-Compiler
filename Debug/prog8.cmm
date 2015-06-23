@@ -1,0 +1,20 @@
+begin
+  cout <<  "1 <= 1 " <<  1 <= 1;
+  newline;
+  cout <<  "3 <= 1 " << 3 <= 1;
+  newline;
+  cout <<  "1 < 2 " << 1 < 2;
+  newline;
+  cout << "2 < 1 " << 2 < 1;
+  newline;
+  cout <<  "2  >1 " << 2  >1;
+  newline;
+  cout <<"1>2 "<<1>2;
+  newline;
+  cout <<  "1 != 2 " << 1 != 2;
+  newline;
+  cout <<  "1 != 1 "<< 1 != 1;
+  newline;
+  cout <<  "1 == 1 "<< 1 == 1; newline;
+  cout <<  "1 == 2 "<<1 == 2; newline;
+end;

@@ -1,0 +1,11 @@
+int k;
+begin
+  k = 1;
+  loop 
+    cout << k*k << "  ";
+    if k == 10 then  break; end if;
+    k= k+1;
+  end loop;
+end  
+  
+  

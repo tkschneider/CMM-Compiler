@@ -1,0 +1,23 @@
+int a, b, c, d;
+begin
+ cout << "Expect to see -1 -1 6 2 3 1 3 5";
+ newline;
+ a = 1;  b= 2; c =3; d = 4;
+ cout << -a;
+ newline;
+ cout <<  a - b;
+ newline;
+ cout << b * c;
+ newline;
+ cout << d/b;
+ newline;
+ cout << --c;
+ newline;
+ cout << c % b;
+ newline;
+ cout <<  c * (b - a);
+ newline;
+ cout <<  a*a + b*b;
+ end
+ 
+ 

@@ -1,0 +1,14 @@
+begin
+ cout << "Hello World!";
+end
+
+String Table
+0 : Hello World!
+
+
+Variable Table
+
+
+Instruction Table
+0: cout  [string: 0] 
+1: exit

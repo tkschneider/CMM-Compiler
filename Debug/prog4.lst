@@ -1,0 +1,19 @@
+begin
+  cout << "Line 1";
+  newline;
+  cout << "Line 2";
+end 
+
+String Table
+0 : Line 1
+1 : Line 2
+
+
+Variable Table
+
+
+Instruction Table
+0: cout  [string: 0] 
+1: endl
+2: cout  [string: 1] 
+3: exit

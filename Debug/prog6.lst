@@ -1,0 +1,14 @@
+begin
+  cout << "You should see this line";
+  exit;
+
+String Table
+0 : You should see this line
+
+
+Variable Table
+
+
+Instruction Table
+0: cout  [string: 0] 
+1: exit

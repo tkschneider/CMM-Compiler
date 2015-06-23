@@ -1,0 +1,25 @@
+int x, y;
+begin
+  cout << "Enter 2 numbers: "; 
+  cin >> x  >> y;
+  newline;
+  cout << "You entered " << x << " and " << y;
+end 
+
+String Table
+0 : Enter 2 numbers: 
+1 : You entered 
+2 :  and 
+
+
+Variable Table
+0: x
+1: y
+
+
+Instruction Table
+0: cout  [string: 0] 
+1: cin [x] [y] 
+2: endl
+3: cout  [string: 1] [x] [string: 2] [y] 
+4: exit

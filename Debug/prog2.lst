@@ -1,0 +1,13 @@
+begin
+ cout << 23;
+end 
+
+String Table
+
+
+Variable Table
+
+
+Instruction Table
+0: cout  [23] 
+1: exit

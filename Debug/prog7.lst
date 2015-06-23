@@ -1,0 +1,57 @@
+int a, b, c, d;
+begin
+ cout << "Expect to see -1 -1 6 2 3 1 3 5";
+ newline;
+ a = 1;  b= 2; c =3; d = 4;
+ cout << -a;
+ newline;
+ cout <<  a - b;
+ newline;
+ cout << b * c;
+ newline;
+ cout << d/b;
+ newline;
+ cout << --c;
+ newline;
+ cout << c % b;
+ newline;
+ cout <<  c * (b - a);
+ newline;
+ cout <<  a*a + b*b;
+ end
+
+
+String Table
+0 : Expect to see -1 -1 6 2 3 1 3 5
+
+
+Variable Table
+0: a
+1: b
+2: c
+3: d
+
+
+Instruction Table
+0: cout  [string: 0] 
+1: endl
+2: assign a: 1
+3: assign b: 2
+4: assign c: 3
+5: assign d: 4
+6: cout  [-a] 
+7: endl
+8: cout  [(a)-(b)] 
+9: endl
+10: cout  [(b)*(c)] 
+11: endl
+12: cout  [(d)/(b)] 
+13: endl
+14: cout  [--c] 
+15: endl
+16: cout  [(c)%(b)] 
+17: endl
+18: cout  [(c)*((b)-(a))] 
+19: endl
+20: cout  [((a)*(a))+((b)*(b))] 
+21: exit

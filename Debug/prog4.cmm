@@ -1,0 +1,5 @@
+begin
+  cout << "Line 1";
+  newline;
+  cout << "Line 2";
+end  

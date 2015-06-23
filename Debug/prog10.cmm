@@ -1,0 +1,9 @@
+int k;
+begin
+  k = 1;
+  while k <= 10 do
+    cout << k*k << "  ";
+	k = k+1;
+  end while;
+end  
+	
